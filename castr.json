@@ -17,6 +17,12 @@
       "name": "بوست",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 2
+    },
+    {
+      "id": "cat_1783544711286",
+      "name": "الرابعة",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 3
     }
   ],
   "channels": []
