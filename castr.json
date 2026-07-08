@@ -59,6 +59,12 @@
       "name": "الكاس",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 9
+    },
+    {
+      "id": "cat_1783545360068",
+      "name": "TOD",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 10
     }
   ],
   "channels": [
