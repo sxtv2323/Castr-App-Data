@@ -23,6 +23,12 @@
       "name": "الرابعة",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 3
+    },
+    {
+      "id": "cat_1783544722312",
+      "name": "الفجر",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 4
     }
   ],
   "channels": []
