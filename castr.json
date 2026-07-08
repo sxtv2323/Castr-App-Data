@@ -4,13 +4,13 @@
       "id": "cat_1783009748748",
       "name": "Bein",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXse2cgIuVSVKEqzxp4g4aEV2GZUO7RIO-oHA1TKMIQ&s=10",
-      "order": 0
+      "order": 1
     },
     {
       "id": "cat_1783523322794",
       "name": "MAx",
       "image": "https://raw.githubusercontent.com/sxtv2323/ALISHOT-IPTV/refs/heads/main/IMG_20260702_014710_165.jpg",
-      "order": 1
+      "order": 0
     }
   ],
   "channels": [
