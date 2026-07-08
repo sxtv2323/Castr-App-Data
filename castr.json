@@ -29,6 +29,12 @@
       "name": "الفجر",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 4
+    },
+    {
+      "id": "cat_1783544738338",
+      "name": "بين سبورت ماكس",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 5
     }
   ],
   "channels": []
