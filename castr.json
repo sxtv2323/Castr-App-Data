@@ -65,6 +65,12 @@
       "name": "TOD",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 10
+    },
+    {
+      "id": "cat_1783545401784",
+      "name": "اخبار العالم",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 11
     }
   ],
   "channels": [
