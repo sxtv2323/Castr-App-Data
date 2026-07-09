@@ -139,6 +139,14 @@
       "url": "http://marveliptv.life:80/live/3680864343/2570076533/423.m3u8",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
       "order": 5
+    },
+    {
+      "id": "ch_1783619576618",
+      "categoryId": "cat_1783544645489",
+      "name": "Alwan Sport 1 4K",
+      "url": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
+      "order": 6
     }
   ]
 }
