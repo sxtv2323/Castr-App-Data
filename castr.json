@@ -1,4 +1,11 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat_1783625908993",
+      "name": "Alwan Sport",
+      "image": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png",
+      "order": 0
+    }
+  ],
   "channels": []
 }
