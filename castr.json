@@ -1,11 +1,4 @@
 {
-  "categories": [
-    {
-      "id": "cat_1783621994860",
-      "name": "Alwan Sport",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
-      "order": 0
-    }
-  ],
+  "categories": [],
   "channels": []
 }
