@@ -93,14 +93,6 @@
   ],
   "channels": [
     {
-      "id": "ch_1783544992661",
-      "categoryId": "cat_1783539956925",
-      "name": "سورت",
-      "url": "https://pixeldrain.com/",
-      "image": "http://8kkng.life:80/live/b0:99:d7:97:03:ac/8fEAzXbQDcvQag2/248600.m3u8",
-      "order": 1
-    },
-    {
       "id": "ch_1783545105303",
       "categoryId": "cat_1783539956925",
       "name": "بين سبورت 4k",
@@ -109,12 +101,28 @@
       "order": 0
     },
     {
+      "id": "ch_1783544992661",
+      "categoryId": "cat_1783539956925",
+      "name": "سورت",
+      "url": "https://pixeldrain.com/",
+      "image": "http://8kkng.life:80/live/b0:99:d7:97:03:ac/8fEAzXbQDcvQag2/248600.m3u8",
+      "order": 1
+    },
+    {
       "id": "ch_1783545136798",
       "categoryId": "cat_1783539956925",
       "name": "بين سبورت FHD",
       "url": "http://8kkng.life:80/live/b0:99:d7:97:03:ac/8fEAzXbQDcvQag2/248600.m3u8",
       "image": "http://8kkng.life:80/live/b0:99:d7:97:03:ac/8fEAzXbQDcvQag2/248600.m3u8",
       "order": 2
+    },
+    {
+      "id": "ch_1783603602732",
+      "categoryId": "cat_1783539956925",
+      "name": "بث حقيقي",
+      "url": "http://marveliptv.life:80/live/3680864343/2570076533/2003.ts",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
+      "order": 3
     }
   ]
 }
