@@ -7,5 +7,14 @@
       "order": 0
     }
   ],
-  "channels": []
+  "channels": [
+    {
+      "id": "ch_1783625944053",
+      "categoryId": "cat_1783625908993",
+      "name": "Alwan Sport  1 4k",
+      "url": "http://myhand.org:8080/live/Hussain879/16318166709566/829083.m3u",
+      "image": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png",
+      "order": 0
+    }
+  ]
 }
