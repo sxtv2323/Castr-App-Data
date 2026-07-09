@@ -83,12 +83,6 @@
       "name": "بث تجريبي",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 13
-    },
-    {
-      "id": "cat_1783545460451",
-      "name": "كاستيل سبورت",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
-      "order": 14
     }
   ],
   "channels": []
