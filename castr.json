@@ -1,4 +1,11 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat_1783620161424",
+      "name": "كاس العالم",
+      "image": "http://safiafamily.com/uploads/family/Bein_sports/beIN_SPORTS_MAX3_DIGITAL_Mono.png",
+      "order": 0
+    }
+  ],
   "channels": []
 }
