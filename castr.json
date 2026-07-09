@@ -179,6 +179,14 @@
       "url": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
       "order": 10
+    },
+    {
+      "id": "ch_1783619789155",
+      "categoryId": "cat_1783544645489",
+      "name": "Alwan Sport 6 4K",
+      "url": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
+      "order": 11
     }
   ]
 }
