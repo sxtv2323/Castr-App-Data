@@ -35,12 +35,6 @@
       "name": "بين سبورت ماكس",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
       "order": 5
-    },
-    {
-      "id": "cat_1783544811219",
-      "name": "دوري ايطالي",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
-      "order": 6
     }
   ],
   "channels": []
