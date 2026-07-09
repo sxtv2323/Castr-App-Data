@@ -1,4 +1,11 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat_1783620216248",
+      "name": "كاس عالم",
+      "image": ".pnghttps://ar.wikipedia.org/wiki/%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85_2026#/media/%D9%85%D9%84%D9%81:%D8%B4%D8%B9%D8%A7%D8%B1_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85_2026.svg",
+      "order": 0
+    }
+  ],
   "channels": []
 }
