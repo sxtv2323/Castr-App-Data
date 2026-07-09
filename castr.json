@@ -1,20 +1,4 @@
 {
-  "categories": [
-    {
-      "id": "cat_1783622019466",
-      "name": "Alwan Sport",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
-      "order": 0
-    }
-  ],
-  "channels": [
-    {
-      "id": "ch_1783623257356",
-      "categoryId": "cat_1783622019466",
-      "name": "ها",
-      "url": "http://myhand.org:8080/live/Hussain879/16318166709566/829083.m3u8",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
-      "order": 0
-    }
-  ]
+  "categories": [],
+  "channels": []
 }
