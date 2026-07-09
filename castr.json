@@ -39,6 +39,14 @@
       "url": "http://myhand.org:8080/live/Hussain879/16318166709566/829086.m3u8",
       "image": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png",
       "order": 3
+    },
+    {
+      "id": "ch_1783626448145",
+      "categoryId": "cat_1783625908993",
+      "name": "Alwan Sport  5 4k",
+      "url": "http://myhand.org:8080/live/Hussain879/16318166709566/829087.m3u8",
+      "image": "https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png",
+      "order": 4
     }
   ]
 }
