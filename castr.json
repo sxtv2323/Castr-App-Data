@@ -97,6 +97,14 @@
       "order": 14
     },
     {
+      "id": "ch_1783711665568",
+      "categoryId": "cat_1783625908993",
+      "name": "بث  4k",
+      "url": "http://marveliptv.life:80/live/35700753466/35708754677/530867.m3u8",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
+      "order": 14
+    },
+    {
       "id": "ch_1783627279677",
       "categoryId": "cat_1783625908993",
       "name": "Alwan Sport   SD 3",
@@ -121,12 +129,12 @@
       "order": 17
     },
     {
-      "id": "ch_1783711665568",
+      "id": "ch_1783711705152",
       "categoryId": "cat_1783625908993",
-      "name": "بث  4k",
-      "url": "http://marveliptv.life:80/live/35700753466/35708754677/530867.m3u8",
+      "name": "بث تجريبي HD",
+      "url": "http://marveliptv.life:80/live/35700753466/35708754677/528744.m3u8",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
-      "order": 14
+      "order": 15
     }
   ]
 }
