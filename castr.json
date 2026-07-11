@@ -29,6 +29,12 @@
       "name": "beIN SPORTS 1 FHD",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 4
+    },
+    {
+      "id": "cat_1783793218922",
+      "name": "beIN SPORTS  HD",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 5
     }
   ],
   "channels": [
