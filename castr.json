@@ -71,6 +71,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524872.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 7
+    },
+    {
+      "id": "ch_1783784117487",
+      "categoryId": "cat_1783783353464",
+      "name": "ALWAN  SPORTS HD 3",
+      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/524875.m3u8",
+      "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
+      "order": 8
     }
   ]
 }
