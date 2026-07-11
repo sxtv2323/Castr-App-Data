@@ -1,4 +1,11 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat_1783783353464",
+      "name": "ALWAN SPORTS",
+      "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
+      "order": 0
+    }
+  ],
   "channels": []
 }
