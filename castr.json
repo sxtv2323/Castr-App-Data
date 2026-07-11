@@ -253,6 +253,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533710.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 29
+    },
+    {
+      "id": "ch_1783791283240",
+      "categoryId": "cat_1783785765810",
+      "name": "beIN MAX 4 SD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533720.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
+      "order": 30
     }
   ]
 }
