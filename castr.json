@@ -17,6 +17,12 @@
       "name": "AL-FAJER",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
       "order": 2
+    },
+    {
+      "id": "cat_1783792082758",
+      "name": "STARZPLAY",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 3
     }
   ],
   "channels": [
