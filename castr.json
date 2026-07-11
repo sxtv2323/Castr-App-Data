@@ -140,7 +140,7 @@
       "name": "beIN MAX 2 4K",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533708.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 15
+      "order": 18
     },
     {
       "id": "ch_1783785921597",
@@ -148,7 +148,7 @@
       "name": "beIN MAX 3 4K",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533717.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 16
+      "order": 15
     },
     {
       "id": "ch_1783785940277",
@@ -156,7 +156,7 @@
       "name": "beIN MAX 4 4K",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533726.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 17
+      "order": 16
     },
     {
       "id": "ch_1783785970829",
@@ -164,7 +164,7 @@
       "name": "beIN MAX  5 4K",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533735.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 18
+      "order": 17
     }
   ]
 }
