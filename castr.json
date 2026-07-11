@@ -157,6 +157,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533726.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 17
+    },
+    {
+      "id": "ch_1783786432787",
+      "categoryId": "cat_1783785765810",
+      "name": "beIN MAX 5 4K",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/530871.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
+      "order": 18
     }
   ]
 }
