@@ -11,6 +11,12 @@
       "name": "beIN MAX",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 1
+    },
+    {
+      "id": "cat_1783791700498",
+      "name": "AL-FAJER",
+      "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
+      "order": 2
     }
   ],
   "channels": [
