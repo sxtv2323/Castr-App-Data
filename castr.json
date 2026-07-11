@@ -345,14 +345,6 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
       "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
       "order": 39
-    },
-    {
-      "id": "ch_1783792433584",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY 2 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
-      "image": "\"http://phomar.sbs:80/images/marvel/1716985163331.jpg\",",
-      "order": 40
     }
   ]
 }
