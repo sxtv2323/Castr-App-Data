@@ -291,14 +291,6 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262159.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\"",
       "order": 33
-    },
-    {
-      "id": "ch_1783791855318",
-      "categoryId": "cat_1783791700498",
-      "name": "AL-FAJER 4",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262156.m3u8",
-      "image": "\"http://phomar.sbs:80/images/marvel/1716985163331.jpg\",",
-      "order": 34
     }
   ]
 }
