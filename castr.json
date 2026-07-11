@@ -313,6 +313,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262153.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
       "order": 35
+    },
+    {
+      "id": "ch_1783792120003",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY  1FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476913.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 36
     }
   ]
 }
