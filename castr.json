@@ -413,6 +413,14 @@
       "url": "\"http://marveliptv.life:80/live/Hussain036/346097533572/214584.m3u8",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 46
+    },
+    {
+      "id": "ch_1783794176228",
+      "categoryId": "cat_1783793218922",
+      "name": "beIN SPORTS 2 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 47
     }
   ]
 }
