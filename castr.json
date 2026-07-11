@@ -267,6 +267,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533720.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 30
+    },
+    {
+      "id": "ch_1783791734562",
+      "categoryId": "cat_1783791700498",
+      "name": "AL-FAJER 1 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262165.m3u8",
+      "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\",",
+      "order": 31
     }
   ]
 }
