@@ -197,14 +197,6 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528744.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 22
-    },
-    {
-      "id": "ch_1783788190813",
-      "categoryId": "cat_1783785765810",
-      "name": "beIN MAX 2 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/528747.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 23
     }
   ]
 }
