@@ -35,6 +35,12 @@
       "name": "beIN SPORTS  HD",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 5
+    },
+    {
+      "id": "cat_1783880163286",
+      "name": "Shahid Sport",
+      "image": "http://phomar.sbs/images/marvel/1756644281446.jpg",
+      "order": 6
     }
   ],
   "channels": [
