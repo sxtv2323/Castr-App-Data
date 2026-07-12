@@ -341,6 +341,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528732.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 37
+    },
+    {
+      "id": "ch_1783879782623",
+      "categoryId": "cat_1783785765810",
+      "name": "beIN MAX 2 LOW",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528735.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg\",",
+      "order": 38
     }
   ]
 }
