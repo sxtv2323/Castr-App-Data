@@ -77,6 +77,12 @@
       "name": "سيرفر خاص",
       "image": "http://phomar.sbs/live/be/6.jpg",
       "order": 12
+    },
+    {
+      "id": "cat_1783884752309",
+      "name": "Vip Arabic",
+      "image": "http://phomar.sbs:80/images/marvel/1719484323116.jpg",
+      "order": 13
     }
   ],
   "channels": [
