@@ -53,6 +53,12 @@
       "name": "THMANYAH D",
       "image": "http://phomar.sbs/images/marvel/1754826018182.jpg",
       "order": 8
+    },
+    {
+      "id": "cat_1783881698215",
+      "name": "beIN SPORTS  LOW",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 9
     }
   ],
   "channels": [
