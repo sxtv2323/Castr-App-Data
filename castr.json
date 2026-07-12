@@ -151,14 +151,6 @@
       "order": 13
     },
     {
-      "id": "ch_1783791148428",
-      "categoryId": "cat_1783785765810",
-      "name": "beIN MAX 1 SD",
-      "url": "://marveliptv.life:80/live/Hussain036/346097533572/528738.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 27
-    },
-    {
       "id": "ch_1783791188430",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 2 SD",
@@ -228,6 +220,14 @@
       "name": "STARZPLAY  1FHD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476913.m3u8",
       "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 36
+    },
+    {
+      "id": "ch_1783840578114",
+      "categoryId": "cat_1783783353464",
+      "name": "اختبار",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.ts",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
       "order": 36
     },
     {
@@ -325,14 +325,6 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214582.m3u8",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 48
-    },
-    {
-      "id": "ch_1783840578114",
-      "categoryId": "cat_1783783353464",
-      "name": "اختبار",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.ts",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
-      "order": 36
     }
   ]
 }
