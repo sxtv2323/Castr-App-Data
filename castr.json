@@ -41,6 +41,12 @@
       "name": "Shahid Sport",
       "image": "http://phomar.sbs/images/marvel/1756644281446.jpg",
       "order": 6
+    },
+    {
+      "id": "cat_1783880628335",
+      "name": "beIN SPORTS MINI",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 7
     }
   ],
   "channels": [
