@@ -71,6 +71,12 @@
       "name": "TOD",
       "image": "http://phomar.sbs/live/int/1.jpg",
       "order": 11
+    },
+    {
+      "id": "cat_1783884206171",
+      "name": "سيرفر خاص",
+      "image": "http://phomar.sbs/live/be/6.jpg",
+      "order": 12
     }
   ],
   "channels": [
