@@ -184,7 +184,7 @@
       "id": "ch_1783863139518",
       "categoryId": "cat_1783785765810",
       "name": "BEIN  MAX 1 SD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528738.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528738.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 14
     },
@@ -192,7 +192,7 @@
       "id": "ch_1783791188430",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 2 SD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528741.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528741.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 15
     },
@@ -200,7 +200,7 @@
       "id": "ch_1783791237413",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 3 SD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533710.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533710.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 16
     },
@@ -208,7 +208,7 @@
       "id": "ch_1783791283240",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 4 SD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533720.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533720.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 17
     },
@@ -368,7 +368,7 @@
       "id": "ch_1783879748192",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 1 LOW",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528732.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528732.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 37
     },
@@ -376,7 +376,7 @@
       "id": "ch_1783879782623",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 2 LOW",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528735.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528735.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg\",",
       "order": 38
     },
@@ -384,7 +384,7 @@
       "id": "ch_1783879853085",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX  1 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528744.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528744.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg\",",
       "order": 39
     },
@@ -392,7 +392,7 @@
       "id": "ch_1783879897976",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 2 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528747.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528747.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 40
     },
@@ -400,7 +400,7 @@
       "id": "ch_1783879927295",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 3 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/532280.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/532280.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 41
     },
@@ -408,7 +408,7 @@
       "id": "ch_1783879962021",
       "categoryId": "cat_1783785765810",
       "name": "beIN MAX 4 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/532281.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/532281.ts",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 42
     },
