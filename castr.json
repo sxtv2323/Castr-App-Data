@@ -186,7 +186,7 @@
       "id": "ch_1783791734562",
       "categoryId": "cat_1783791700498",
       "name": "AL-FAJER 1 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262165.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262165.ts",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\",",
       "order": 18
     },
@@ -194,7 +194,7 @@
       "id": "ch_1783791782107",
       "categoryId": "cat_1783791700498",
       "name": "AL-FAJER 2",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262162.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262162.ts",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
       "order": 19
     },
@@ -202,7 +202,7 @@
       "id": "ch_1783791815881",
       "categoryId": "cat_1783791700498",
       "name": "AL-FAJER 3",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262159.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262159.ts",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\"",
       "order": 20
     },
@@ -210,7 +210,7 @@
       "id": "ch_1783791891255",
       "categoryId": "cat_1783791700498",
       "name": "AL-FAJER 4",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262156.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262156.ts",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
       "order": 21
     },
@@ -218,7 +218,7 @@
       "id": "ch_1783791923217",
       "categoryId": "cat_1783791700498",
       "name": "AL-FAJER 5",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262153.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262153.ts",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
       "order": 22
     },
