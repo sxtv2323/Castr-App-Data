@@ -65,6 +65,12 @@
       "name": "FEED",
       "image": "http://phomar.sbs:80/images/marvel/1723301145254.jpg",
       "order": 10
+    },
+    {
+      "id": "cat_1783883211276",
+      "name": "TOD",
+      "image": "http://phomar.sbs/live/int/1.jpg",
+      "order": 11
     }
   ],
   "channels": [
