@@ -357,14 +357,6 @@
       "url": "http://marveliptv.life:80/live/35700753466/35708754677/533720.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 39
-    },
-    {
-      "id": "ch_1783878890895",
-      "categoryId": "cat_1783785765810",
-      "name": "تجريبي",
-      "url": "http://marveliptv.life:80/live/35700753466/35708754677/533720.m3u8",
-      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
-      "order": 40
     }
   ]
 }
