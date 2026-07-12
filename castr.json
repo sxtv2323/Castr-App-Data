@@ -59,6 +59,12 @@
       "name": "beIN SPORTS  LOW",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 9
+    },
+    {
+      "id": "cat_1783881906528",
+      "name": "FEED MARVEL",
+      "image": "://phomar.sbs:80/images/marvel/1723301145254.jpg",
+      "order": 10
     }
   ],
   "channels": [
