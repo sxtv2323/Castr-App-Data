@@ -42,7 +42,7 @@
       "id": "ch_1783797214649",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN SPORT 1 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485632.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485632.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 0
     },
@@ -50,7 +50,7 @@
       "id": "ch_1783783490837",
       "categoryId": "cat_1783783353464",
       "name": "2 ALWAN  SPORTS FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485633.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485633.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 1
     },
@@ -58,7 +58,7 @@
       "id": "ch_1783783527275",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS FHD 3",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485634.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485634.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 2
     },
@@ -66,7 +66,7 @@
       "id": "ch_1783783744645",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS FHD 4",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485635.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485635.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 3
     },
@@ -74,7 +74,7 @@
       "id": "ch_1783783771019",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS FHD 5",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485636.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485636.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 4
     },
@@ -82,7 +82,7 @@
       "id": "ch_1783783812850",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS FHD 6",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485637.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/485637.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 5
     },
@@ -90,7 +90,7 @@
       "id": "ch_1783783966149",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS HD 1",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524869.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524869.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 6
     },
@@ -98,7 +98,7 @@
       "id": "ch_1783783994420",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS HD 2",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524872.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524872.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 7
     },
@@ -106,7 +106,7 @@
       "id": "ch_1783784117487",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS HD 3",
-      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/524875.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/524875.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 8
     },
@@ -114,7 +114,7 @@
       "id": "ch_1783784133202",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS HD 4",
-      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/524878.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036 /346097533572/524878.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 9
     },
@@ -122,7 +122,7 @@
       "id": "ch_1783785468454",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS SD 1",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524870.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524870.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 10
     },
@@ -130,7 +130,7 @@
       "id": "ch_1783785542839",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS SD 2",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524873.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524873.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 11
     },
@@ -138,7 +138,7 @@
       "id": "ch_1783785568256",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS SD 3",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524876.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524876.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 12
     },
@@ -146,7 +146,7 @@
       "id": "ch_1783785621556",
       "categoryId": "cat_1783783353464",
       "name": "ALWAN  SPORTS SD 4",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524879.m3u8",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/524879.ts",
       "image": "http://phomar.sbs:80/images/marvel/1759232316459.jpg",
       "order": 13
     },
@@ -234,7 +234,7 @@
       "id": "ch_1783840578114",
       "categoryId": "cat_1783783353464",
       "name": "اختبار",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.ts",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.m3u8",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
       "order": 24
     },
