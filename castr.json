@@ -615,6 +615,14 @@
       "url": "https://fackyou-cdn4.cfd/iptv-2/index.m3u8",
       "image": "http://phomar.sbs/live/be/6.jpg",
       "order": 66
+    },
+    {
+      "id": "ch_1783884313319",
+      "categoryId": "cat_1783884206171",
+      "name": "سيرفر خاص 3",
+      "url": "https://fackyou-cdn4.cfd/iptv-3/index.m3u8",
+      "image": "http://phomar.sbs/live/be/6.jpg",
+      "order": 67
     }
   ]
 }
