@@ -71,12 +71,6 @@
       "name": "TOD",
       "image": "http://phomar.sbs/live/int/1.jpg",
       "order": 11
-    },
-    {
-      "id": "cat_1783884140359",
-      "name": "beIN SPORTS سيرفر خاص",
-      "image": "http://phomar.sbs:80/images/marvel/1730034268109.jpg",
-      "order": 12
     }
   ],
   "channels": [
