@@ -47,6 +47,12 @@
       "name": "beIN SPORTS MINI",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 7
+    },
+    {
+      "id": "cat_1783880876412",
+      "name": "THMANYAH D",
+      "image": "http://phomar.sbs/images/marvel/1754826018182.jpg",
+      "order": 8
     }
   ],
   "channels": [
