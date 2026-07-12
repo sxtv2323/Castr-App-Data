@@ -541,6 +541,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/178670.m3u8",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 59
+    },
+    {
+      "id": "ch_1783881741567",
+      "categoryId": "cat_1783881698215",
+      "name": "beIN SPORTS 2 LOW",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/178669.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 60
     }
   ]
 }
