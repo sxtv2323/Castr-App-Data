@@ -465,6 +465,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/178700.m3u8",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 51
+    },
+    {
+      "id": "ch_1783880724058",
+      "categoryId": "cat_1783880628335",
+      "name": "beIN SPORTS 4 MINI",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/178699.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 52
     }
   ]
 }
