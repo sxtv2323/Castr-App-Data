@@ -563,6 +563,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/499321.m3u8",
       "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 61
+    },
+    {
+      "id": "ch_1783881986054",
+      "categoryId": "cat_1783881954664",
+      "name": "FEED MARVEL 3",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/386806.m3u8",
+      "image": "http://phomar.sbs:80/images/marvel/1723301145254.jpg",
+      "order": 62
     }
   ]
 }
