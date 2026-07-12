@@ -156,7 +156,7 @@
       "name": "beIN MAX 2 SD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528741.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 28
+      "order": 15
     },
     {
       "id": "ch_1783791237413",
@@ -164,7 +164,7 @@
       "name": "beIN MAX 3 SD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533710.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 29
+      "order": 16
     },
     {
       "id": "ch_1783791283240",
@@ -172,7 +172,7 @@
       "name": "beIN MAX 4 SD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533720.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 30
+      "order": 17
     },
     {
       "id": "ch_1783791734562",
@@ -180,7 +180,7 @@
       "name": "AL-FAJER 1 HD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262165.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\",",
-      "order": 31
+      "order": 18
     },
     {
       "id": "ch_1783791782107",
@@ -188,7 +188,7 @@
       "name": "AL-FAJER 2",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262162.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
-      "order": 32
+      "order": 19
     },
     {
       "id": "ch_1783791815881",
@@ -196,7 +196,7 @@
       "name": "AL-FAJER 3",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262159.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg\"",
-      "order": 33
+      "order": 20
     },
     {
       "id": "ch_1783791891255",
@@ -204,7 +204,7 @@
       "name": "AL-FAJER 4",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262156.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
-      "order": 34
+      "order": 21
     },
     {
       "id": "ch_1783791923217",
@@ -212,7 +212,7 @@
       "name": "AL-FAJER 5",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/262153.m3u8",
       "image": "http://phomar.sbs:80/images/marvel/1716985174448.jpg",
-      "order": 35
+      "order": 22
     },
     {
       "id": "ch_1783792120003",
@@ -220,7 +220,7 @@
       "name": "STARZPLAY  1FHD",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476913.m3u8",
       "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 36
+      "order": 23
     },
     {
       "id": "ch_1783840578114",
@@ -228,103 +228,7 @@
       "name": "اختبار",
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.ts",
       "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
-      "order": 36
-    },
-    {
-      "id": "ch_1783792162028",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY FHD 2",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476910.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 37
-    },
-    {
-      "id": "ch_1783792206988",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY 3 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476916.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 38
-    },
-    {
-      "id": "ch_1783792319204",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY HD 1",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 39
-    },
-    {
-      "id": "ch_1783792467784",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY 2 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 40
-    },
-    {
-      "id": "ch_1783792502970",
-      "categoryId": "cat_1783792082758",
-      "name": "STARZPLAY 3 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476917.m3u8",
-      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
-      "order": 41
-    },
-    {
-      "id": "ch_1783792957225",
-      "categoryId": "cat_1783792872960",
-      "name": "beIN SPORTS 1 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101094.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 42
-    },
-    {
-      "id": "ch_1783792995960",
-      "categoryId": "cat_1783792872960",
-      "name": "beIN SPORTS  2 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101093.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 43
-    },
-    {
-      "id": "ch_1783793035312",
-      "categoryId": "cat_1783792872960",
-      "name": "beIN SPORTS 3 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101094.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 44
-    },
-    {
-      "id": "ch_1783793083701",
-      "categoryId": "cat_1783792872960",
-      "name": "beIN SPORTS 4 FHD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101095.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 45
-    },
-    {
-      "id": "ch_1783793539329",
-      "categoryId": "cat_1783793218922",
-      "name": "beIN SPORTS 1 HD",
-      "url": "\"http://marveliptv.life:80/live/Hussain036/346097533572/214584.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 46
-    },
-    {
-      "id": "ch_1783794176228",
-      "categoryId": "cat_1783793218922",
-      "name": "beIN SPORTS 2 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 47
-    },
-    {
-      "id": "ch_1783794215879",
-      "categoryId": "cat_1783793218922",
-      "name": "beIN SPORTS 3 HD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214582.m3u8",
-      "image": "http://phomar.sbs/live/be/1.jpg",
-      "order": 48
+      "order": 24
     },
     {
       "id": "ch_1783863139518",
@@ -332,6 +236,102 @@
       "name": "BEIN  MAX 1 SD",
       "url": "http://marveliptv.life:80/live/35700753466/35708754677/528738.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
+      "order": 14
+    },
+    {
+      "id": "ch_1783792162028",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY FHD 2",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476910.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 25
+    },
+    {
+      "id": "ch_1783792206988",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY 3 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476916.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 26
+    },
+    {
+      "id": "ch_1783792319204",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY HD 1",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 27
+    },
+    {
+      "id": "ch_1783792467784",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY 2 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476911.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 28
+    },
+    {
+      "id": "ch_1783792502970",
+      "categoryId": "cat_1783792082758",
+      "name": "STARZPLAY 3 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/476917.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644665278.jpg",
+      "order": 29
+    },
+    {
+      "id": "ch_1783792957225",
+      "categoryId": "cat_1783792872960",
+      "name": "beIN SPORTS 1 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101094.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 30
+    },
+    {
+      "id": "ch_1783792995960",
+      "categoryId": "cat_1783792872960",
+      "name": "beIN SPORTS  2 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101093.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 31
+    },
+    {
+      "id": "ch_1783793035312",
+      "categoryId": "cat_1783792872960",
+      "name": "beIN SPORTS 3 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101094.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 32
+    },
+    {
+      "id": "ch_1783793083701",
+      "categoryId": "cat_1783792872960",
+      "name": "beIN SPORTS 4 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/101095.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 33
+    },
+    {
+      "id": "ch_1783793539329",
+      "categoryId": "cat_1783793218922",
+      "name": "beIN SPORTS 1 HD",
+      "url": "\"http://marveliptv.life:80/live/Hussain036/346097533572/214584.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 34
+    },
+    {
+      "id": "ch_1783794176228",
+      "categoryId": "cat_1783793218922",
+      "name": "beIN SPORTS 2 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214583.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
+      "order": 35
+    },
+    {
+      "id": "ch_1783794215879",
+      "categoryId": "cat_1783793218922",
+      "name": "beIN SPORTS 3 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/214582.m3u8",
+      "image": "http://phomar.sbs/live/be/1.jpg",
       "order": 36
     }
   ]
