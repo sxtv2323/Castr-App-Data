@@ -247,6 +247,14 @@
       "order": 37
     },
     {
+      "id": "ch_1783838243138",
+      "categoryId": "cat_1783785765810",
+      "name": "beIN MAX 2 4K",
+      "url": "http://marveliptv.life:80/live/35700753466/35708754677/530870.ts",
+      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
+      "order": 37
+    },
+    {
       "id": "ch_1783792206988",
       "categoryId": "cat_1783792082758",
       "name": "STARZPLAY 3 FHD",
@@ -335,12 +343,12 @@
       "order": 48
     },
     {
-      "id": "ch_1783838243138",
+      "id": "ch_1783838298359",
       "categoryId": "cat_1783785765810",
-      "name": "beIN MAX 2 4K",
-      "url": "http://marveliptv.life:80/live/35700753466/35708754677/530870.ts",
-      "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
-      "order": 37
+      "name": "beIN MAX 3 4K",
+      "url": "http://marveliptv.life:80/live/35700753466/35708754677/533717.ts",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=CH",
+      "order": 38
     }
   ]
 }
