@@ -579,14 +579,6 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/359293.ts",
       "image": "http://phomar.sbs:80/images/marvel/1723301145254.jpg",
       "order": 63
-    },
-    {
-      "id": "ch_1783882125652",
-      "categoryId": "cat_1783881954664",
-      "name": "4 FEED MARVEL SD",
-      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/359294.ts",
-      "image": "http://phomar.sbs:80/images/marvel/1723301145254.jpg",
-      "order": 64
     }
   ]
 }
