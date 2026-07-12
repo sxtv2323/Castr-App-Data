@@ -411,6 +411,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/490727.m3u8",
       "image": "http://phomar.sbs/images/marvel/1756644281446.jpg",
       "order": 45
+    },
+    {
+      "id": "ch_1783880291043",
+      "categoryId": "cat_1783880163286",
+      "name": "Shahid Sport 1 HD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/490734.m3u8",
+      "image": "http://phomar.sbs/images/marvel/1756644281446.jpg",
+      "order": 46
     }
   ]
 }
