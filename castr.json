@@ -691,6 +691,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/530867.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 74
+    },
+    {
+      "id": "ch_1784050730295",
+      "categoryId": "cat_1784050618476",
+      "name": "beIN MAX 1 FHD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528751.m3u8",
+      "image": "https://phomar.sbs/images/marvel/1779452987164.jpg",
+      "order": 75
     }
   ]
 }
