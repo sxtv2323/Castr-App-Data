@@ -747,6 +747,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528747.m3u8",
       "image": "http://phomar.sbs/images/marvel/1779452987164.jpg",
       "order": 81
+    },
+    {
+      "id": "ch_1784050982439",
+      "categoryId": "cat_1784050618476",
+      "name": "beIN MAX 2 SD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528741.m3u8",
+      "image": "https://tayaara.store/images/marvel/1779452987164.jpg",
+      "order": 82
     }
   ]
 }
