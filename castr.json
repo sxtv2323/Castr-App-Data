@@ -755,6 +755,14 @@
       "url": "http://marveliptv.life:80/live/Hussain036/346097533572/528741.m3u8",
       "image": "https://tayaara.store/images/marvel/1779452987164.jpg",
       "order": 82
+    },
+    {
+      "id": "ch_1784051110136",
+      "categoryId": "cat_1784050618476",
+      "name": "TOD",
+      "url": "http://marveliptv.life:80/live/Hussain036/346097533572/533529.m3u8",
+      "image": "https://tayaara.store/images/marvel/1779452987164.jpg",
+      "order": 83
     }
   ]
 }
