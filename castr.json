@@ -83,6 +83,12 @@
       "name": "Vip Arabic",
       "image": "http://phomar.sbs:80/images/marvel/1719484323116.jpg",
       "order": 13
+    },
+    {
+      "id": "cat_1784050618476",
+      "name": "اسبانيا _ فرنسا",
+      "image": "https://placehold.co/40x40/1e293b/38bdf8?text=TV",
+      "order": 14
     }
   ],
   "channels": [
